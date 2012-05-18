@@ -1,19 +1,21 @@
 {
-   "name": "statsmix",
-   "version": "0.0.1",
-   "main": "index",
-   "description": "A simple statsmix client.",
-   "keywords": [
-       "statistics"
-   ],
-   "author": {
-       "name": "Stephan Uhle"
-   }, 
-   "repository": {
-       "type": "git",
-       "url": "git@github.com:StephanU/statsmix.git" 
-   }, 
-   "engines": {
-       "node": ">=0.6.0"
-   }
+  "name": "statsmix",
+  "version": "0.0.1",
+  "main": "index",
+  "description": "A simple statsmix client.",
+  "keywords": [
+    "statistics"
+  ],
+  "author": "Stephan Uhle",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:StephanU/statsmix.git"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "homepage": "https://github.com/StephanU/statsmix"
 }
